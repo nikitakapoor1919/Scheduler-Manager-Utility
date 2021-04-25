@@ -194,8 +194,6 @@ int alarm()
 
         
 	}
-    //fclose(fin);
-    //exit(0);
 return 0;	    
 }
 
