@@ -6,15 +6,15 @@ Schedule Manager Utility is aimed to be a utility that can automate personal dai
 Additionally the utility can also be made to function as a alarm clock under desired situations
 
 # SubModules
-1.Enter Schedule
+### 1.Enter Schedule: 
 In this module user set their daily schedule in 24 hour format.
 
 
-2.View Schedule
+### 2.View Schedule: 
 In this module  user can view their schedule which they had already entered.
 
 
-3.Scheduler
+### 3.Scheduler: 
 It is reminder with beep sound to ensure you can’t miss an important appointment or deadline.
 It  function as a alarm clock under desired situations.
 Extra functionalities like Dismiss alarm and Snooze alarm is also present. 
